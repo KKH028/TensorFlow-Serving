@@ -1,6 +1,6 @@
 # TensorFlow Serving
 
-### Tenserflow_Serving의 Inference Model은 ssd_MobileNet_V1입니다
+### Tenserflow_Serving의 서버의 Inference Model은 ssd_MobileNet_V1입니다.
 
 TensorFlow Serving은 TensorFlow 기반의 모델을 배포하고 서빙하는 데 사용되는 고성능, 유연성이 뛰어난 서버 시스템입니다. 이 시스템은 기계 학습 모델을 프로덕션 환경에서 쉽고 효율적으로 사용할 수 있도록 설계되었으며, 특히 다음과 같은 주요 기능을 제공합니다:
 <br><br>
