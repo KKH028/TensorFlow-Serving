@@ -1,6 +1,6 @@
-# tensorflow_serving
+# TensorFlow Serving
 
-- ssd_MobileNet_V1
+# Tenserflow_Serving의 Inference Model은 ssd_MobileNet_V1입니다
 
 텐서플로우 서빙(TensorFlow Serving)은 텐서플로우 모델을 서빙하기 위한 공식적인 프로덕션 환경을 제공하는 오픈 소스 솔루션입니다. 이를 통해 머신러닝 모델을 배포하고 관리할 수 있습니다. 주요 기능은 다음과 같습니다:
 <br><br>
